@@ -1,0 +1,42 @@
+Found 5694 validated image filenames.
+Found 1897 validated image filenames.
+Epoch 1/20
+178/178 - 60s - loss: 269.9504 - mae: 11.7506 - val_loss: 701.8716 - val_mae: 21.5565 - 60s/epoch - 335ms/step
+Epoch 2/20
+178/178 - 28s - loss: 84.8972 - mae: 6.9198 - val_loss: 643.2880 - val_mae: 20.3224 - 28s/epoch - 156ms/step
+Epoch 3/20
+178/178 - 28s - loss: 53.9671 - mae: 5.5957 - val_loss: 312.4690 - val_mae: 13.1302 - 28s/epoch - 158ms/step
+Epoch 4/20
+178/178 - 28s - loss: 40.7877 - mae: 4.8258 - val_loss: 160.7753 - val_mae: 9.5430 - 28s/epoch - 159ms/step
+Epoch 5/20
+178/178 - 28s - loss: 34.1798 - mae: 4.4546 - val_loss: 100.1446 - val_mae: 7.5456 - 28s/epoch - 159ms/step
+Epoch 6/20
+178/178 - 29s - loss: 27.5473 - mae: 3.9823 - val_loss: 80.4343 - val_mae: 6.9412 - 29s/epoch - 163ms/step
+Epoch 7/20
+178/178 - 29s - loss: 23.4706 - mae: 3.7187 - val_loss: 63.4572 - val_mae: 5.9649 - 29s/epoch - 161ms/step
+Epoch 8/20
+178/178 - 29s - loss: 19.2781 - mae: 3.3177 - val_loss: 66.3962 - val_mae: 6.1074 - 29s/epoch - 161ms/step
+Epoch 9/20
+178/178 - 29s - loss: 18.5403 - mae: 3.2758 - val_loss: 96.8220 - val_mae: 7.7976 - 29s/epoch - 162ms/step
+Epoch 10/20
+178/178 - 29s - loss: 15.7287 - mae: 3.0474 - val_loss: 82.5380 - val_mae: 6.7135 - 29s/epoch - 162ms/step
+Epoch 11/20
+178/178 - 29s - loss: 13.6759 - mae: 2.8307 - val_loss: 65.6197 - val_mae: 6.1394 - 29s/epoch - 163ms/step
+Epoch 12/20
+178/178 - 29s - loss: 13.0583 - mae: 2.7742 - val_loss: 98.1037 - val_mae: 7.2104 - 29s/epoch - 164ms/step
+Epoch 13/20
+178/178 - 29s - loss: 12.7541 - mae: 2.7292 - val_loss: 84.0370 - val_mae: 7.0765 - 29s/epoch - 164ms/step
+Epoch 14/20
+178/178 - 29s - loss: 12.8180 - mae: 2.7581 - val_loss: 67.7945 - val_mae: 6.0834 - 29s/epoch - 165ms/step
+Epoch 15/20
+178/178 - 29s - loss: 12.5829 - mae: 2.7125 - val_loss: 60.2566 - val_mae: 5.7592 - 29s/epoch - 165ms/step
+Epoch 16/20
+178/178 - 30s - loss: 10.7112 - mae: 2.5081 - val_loss: 66.4085 - val_mae: 6.0301 - 30s/epoch - 167ms/step
+Epoch 17/20
+178/178 - 30s - loss: 9.5412 - mae: 2.3582 - val_loss: 63.7618 - val_mae: 5.8685 - 30s/epoch - 167ms/step
+Epoch 18/20
+178/178 - 30s - loss: 9.6405 - mae: 2.3895 - val_loss: 63.9678 - val_mae: 6.0252 - 30s/epoch - 167ms/step
+Epoch 19/20
+178/178 - 30s - loss: 8.2671 - mae: 2.2136 - val_loss: 58.4486 - val_mae: 5.7715 - 30s/epoch - 166ms/step
+Epoch 20/20
+178/178 - 30s - loss: 8.6834 - mae: 2.2464 - val_loss: 60.7939 - val_mae: 5.9011 - 30s/epoch - 167ms/step

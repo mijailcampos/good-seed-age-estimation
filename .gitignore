@@ -1,0 +1,12 @@
+data/
+datasets/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.npz
+.DS_Store
